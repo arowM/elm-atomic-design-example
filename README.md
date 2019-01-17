@@ -1,4 +1,11 @@
-# elm-accordion
+# Elm Atomic design example
 
-An example accordion UI written in Elm.
-It demonstrates how to realize CSS transition for arbitrary height in Elm.
+An example Elm project in the manner of atomic design.
+
+## Dev server
+
+```
+$ npm i && npm start
+```
+
+Then open `localhost:1234/`. It'll render style guide.
