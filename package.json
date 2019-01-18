@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "parcel src/*.html --public-url /",
-    "build": "parcel build src/index.html -d docs --public-url /elm-atomic-design-example",
+    "build": "parcel build src/*.html -d docs --public-url /elm-atomic-design-example",
     "test": "elm-test"
   },
   "author": "Kadzuya Okamoto",
